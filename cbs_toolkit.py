@@ -232,7 +232,7 @@ def quit_pass_gen(event):
 
 quit_button.bind('<Button-1>', quit_pass_gen)
 # root.geometry('%dx%d+%d+%d' % (750, 750, 750, 750))
-root.title("Munalula Sikazwe 17221351006 Final Project 	CYBERSECURITY MINI-TOOLKIT")
+root.title("CYBER SECURITY TOOLKIT")
 # root.attributes('-fullscreen',True)
 # root.minsize("800x480")
 
